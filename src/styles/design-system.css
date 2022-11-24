@@ -1,0 +1,10 @@
+body {
+  --color-black: #000000;
+  --color-white: #ffffff;
+
+  --primary-font: 'Barlow Semi Condensed', sans-serif;
+
+  --desktop-content-mw: 69.375rem;
+
+  --shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+}
