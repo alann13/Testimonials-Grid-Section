@@ -1,10 +1,29 @@
 body {
-  --color-black: #000000;
+  --color-black: #19202d;
+  --color-dark-grey: #48556a;
+  --color-light-purple: #a775f1;
+  --color-page-background: #f2f2f2;
+  --color-purple: #733fc8;
   --color-white: #ffffff;
 
   --primary-font: 'Barlow Semi Condensed', sans-serif;
 
   --desktop-content-mw: 69.375rem;
+  --mobile-content-mw: 20.3125rem;
 
+  --avatar-size: 1.75rem;
   --shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+}
+
+h1,
+h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+p {
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.385;
 }
